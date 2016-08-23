@@ -1,3 +1,4 @@
-article {
-    color: blue;
+.list {
+    color: blue; font-size: large; 
+    list-style-position: inside;
 }
